@@ -1,0 +1,3 @@
+[submodule "thirdparty/ivy"]
+	path = thirdparty/ivy
+	url = https://github.com/ten3roberts/ivy.git

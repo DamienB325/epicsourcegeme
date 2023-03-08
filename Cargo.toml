@@ -7,3 +7,10 @@ edition = "2021"
 
 [dependencies]
 vbsp = "0.1.0"
+#amethyst = "0.15.3"
+anyhow = "1.0.40"
+flume = "0.10"
+hecs = "0.6"
+ivy-base = { path = "./thirdparty/ivy/ivy-base", version = "0.10.0" }
+log = "0.4"
+rand = "0.8"
